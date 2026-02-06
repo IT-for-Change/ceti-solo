@@ -1,16 +1,16 @@
 {
-    "name": "solo",
-    "description": "A Ghost theme",
+    "name": "cetisolo",
+    "description": "A Ghost theme customized for CETI",
     "version": "1.0.0",
     "private": true,
     "engines": {
         "ghost": ">=5.0.0"
     },
-    "license": "MIT",
+    "license": "AGPL",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "IT for Change",
+        "email": "itfc@itforchange.net",
+        "url": "https://criticaledtech.teacher-network.in"
     },
     "keywords": [
         "ghost",
