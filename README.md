@@ -35,4 +35,4 @@ This repo is synced automatically with [TryGhost/Themes](https://github.com/TryG
 
 ## Copyright & License
 
-Released under the [AGPL license](LICENSE).
+The CETI solo theme is distributed under the [AGPL license](LICENSE). The components from the original repository is available under MIT License.
