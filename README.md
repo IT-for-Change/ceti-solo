@@ -1,4 +1,4 @@
-# Solo
+# Solo Customized for CETI website
 
 Solo is a minimal theme for [Ghost](https://github.com/TryGhost/Ghost) focused on showcasing the work of an individual writer or creator. This theme is highly customizable, with a few simple settings that allow you to quickly apply your own personal style to your site.
 
